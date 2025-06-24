@@ -60,4 +60,19 @@ This project visualizes key trends and patterns in Netflix content. The analysis
 ![Ratings Distribution](screenshots/ratings_vs_count.png)  
 *Count of content by maturity rating*
 
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/AbdullahShariq/Netflix-EDA.git
+
+# Navigate to the project directory
+cd Netflix-EDA
+
+# Launch the Jupyter Notebook
+jupyter notebook "Netflix Movies and TV Shows Analysis.ipynb"
+```
+
 
