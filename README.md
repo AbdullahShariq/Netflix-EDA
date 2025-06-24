@@ -74,5 +74,14 @@ cd Netflix-EDA
 # Launch the Jupyter Notebook
 jupyter notebook "Netflix Movies and TV Shows Analysis.ipynb"
 ```
+---
+
+##  Summary of Insights
+
+- Movies dominate Netflix’s catalog, indicating a stronger emphasis on cinematic content compared to TV Shows.  
+- The United States leads as the top content producer, followed by India, showcasing their major contributions to Netflix's global library.  
+- A significant portion of Netflix’s content is targeted toward mature audiences, reflecting the platform's focus on adult-oriented programming.  
+- 2018 marked the peak year for content releases, suggesting a major expansion phase for Netflix during that period.  
+- “International Movies” and “Dramas” are among the most popular genres, emphasizing the platform’s global appeal and the audience's preference for narrative-rich storytelling.
 
 
