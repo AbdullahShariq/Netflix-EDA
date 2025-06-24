@@ -10,7 +10,7 @@ This EDA serves as a foundational step in understanding the structure of enterta
 
 ---
 
-## 📁 Dataset
+##  Dataset
 **Source:** [Kaggle - Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 The dataset contains over 10,000+ titles with features like:
@@ -44,7 +44,7 @@ This project visualizes key trends and patterns in Netflix content. The analysis
 - Annual content release count  
 - Top genres on Netflix  
 
-> 🔽 Visualizations are stored in the `screenshots/` folder.
+>  Visualizations are stored in the `screenshots/` folder.
 
 ### 🔹 Sample Visuals
 
@@ -62,7 +62,7 @@ This project visualizes key trends and patterns in Netflix content. The analysis
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone the repository
