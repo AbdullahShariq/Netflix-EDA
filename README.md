@@ -44,7 +44,7 @@ This project visualizes key trends and patterns in Netflix content. The analysis
 - Annual content release count  
 - Top genres on Netflix  
 
-####  Visualizations are stored in the `screenshots/` folder.
+##  Visualizations are stored in the `screenshots/` folder.
 
 ### 🔹 Sample Visuals
 
